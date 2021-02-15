@@ -1,0 +1,156 @@
+self.Frame2=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame2.place(x=186,y=198, height=138,width=138)
+        
+        self.Frame3=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame3.place(x=350,y=198, height=138,width=138)
+        
+        self.Frame4=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame4.place(x=516,y=198, height=138,width=138)
+        
+        self.Frame5=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame5.place(x=680,y=198, height=138,width=138)
+        
+        self.Frame6=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame6.place(x=844,y=198, height=138,width=138)
+        
+        self.Frame7=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame7.place(x=1009,y=198, height=138,width=138)
+        
+        #====================== Row 2 ============================
+        
+        self.Frame8=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame8.place(x=22,y=353, height=138,width=138)
+        
+        self.Frame9=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame9.place(x=186,y=353, height=138,width=138)
+        
+        self.Frame10=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame10.place(x=350,y=353, height=138,width=138)
+        
+        self.Frame11=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame11.place(x=516,y=353, height=138,width=138)
+        
+        self.Frame12=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame12.place(x=680,y=353, height=138,width=138)
+        
+        self.Frame13=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame13.place(x=844,y=353, height=138,width=138)
+        
+        self.Frame14=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame14.place(x=1009,y=353, height=138,width=138)
+        
+        #====================== Row 3 ============================
+        
+        self.Frame1=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame1.place(x=22,y=510, height=138,width=138)
+        
+        self.Frame2=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame2.place(x=186,y=510, height=138,width=138)
+        
+        self.Frame3=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame3.place(x=350,y=510, height=138,width=138)
+        
+        self.Frame4=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame4.place(x=516,y=510, height=138,width=138)
+        
+        self.Frame5=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame5.place(x=680,y=510, height=138,width=138)
+        
+        self.Frame6=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame6.place(x=844,y=510, height=138,width=138)
+        
+        self.Frame7=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame7.place(x=1009,y=510, height=138,width=138)
+        
+        #====================== Row 4 ============================
+        
+        self.Frame8=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame8.place(x=22,y=668, height=138,width=138)
+        
+        self.Frame9=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame9.place(x=186,y=668, height=138,width=138)
+        
+        self.Frame10=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame10.place(x=350,y=668, height=138,width=138)
+        
+        self.Frame11=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame11.place(x=516,y=668, height=138,width=138)
+        
+        self.Frame12=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame12.place(x=680,y=668, height=138,width=138)
+        
+        self.Frame13=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame13.place(x=844,y=668, height=138,width=138)
+        
+        self.Frame14=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame14.place(x=1009,y=668, height=138,width=138)
+        
+        #====================== Row 5 ============================
+        
+        self.Frame8=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame8.place(x=22,y=824, height=138,width=138)
+        
+        self.Frame9=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame9.place(x=186,y=824, height=138,width=138)
+        
+        self.Frame10=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame10.place(x=350,y=824, height=138,width=138)
+        
+        self.Frame11=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame11.place(x=516,y=824, height=138,width=138)
+        
+        self.Frame12=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame12.place(x=680,y=824, height=138,width=138)
+        
+        self.Frame13=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame13.place(x=844,y=824, height=138,width=138)
+        
+        self.Frame14=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame14.place(x=1009,y=824, height=138,width=138)
+        
+        #====================== Row 6 ============================
+        
+        self.Frame1=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame1.place(x=22,y=978, height=138,width=138)
+        
+        self.Frame2=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame2.place(x=186,y=978, height=138,width=138)
+        
+        self.Frame3=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame3.place(x=350,y=978, height=138,width=138)
+        
+        self.Frame4=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame4.place(x=516,y=978, height=138,width=138)
+        
+        self.Frame5=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame5.place(x=680,y=978, height=138,width=138)
+        
+        self.Frame6=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame6.place(x=844,y=978, height=138,width=138)
+        
+        self.Frame7=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame7.place(x=1009,y=978, height=138,width=138)
+        
+        #====================== Row 7 ============================
+        
+        self.Frame8=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame8.place(x=22,y=1135, height=138,width=138)
+        
+        self.Frame9=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame9.place(x=186,y=1135, height=138,width=138)
+        
+        self.Frame10=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame10.place(x=350,y=1135, height=138,width=138)
+        
+        self.Frame11=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame11.place(x=516,y=1135, height=138,width=138)
+        
+        self.Frame12=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame12.place(x=680,y=1135, height=138,width=138)
+        
+        self.Frame13=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame13.place(x=844,y=1135, height=138,width=138)
+        
+        self.Frame14=Frame(self.FrameM, bd=2,relief=GROOVE, bg="#DCDCDC") 
+        self.Frame14.place(x=1009,y=1135, height=138,width=138)
+        
